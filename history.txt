@@ -7,9 +7,14 @@ ingenieria en informatica y sistemas.
 cierto me olvide tengo 21 años
 Por cierto como toda persona tengo metas a cumplir
 me gustaria ser Developer Remote Freelance
+<<<<<<< HEAD
 
 Pero aveces el camino se pone muy dificil, pero 
 siento que poco a poco estoy superando esas dificultades
 
 Ahora mi siento the king of the wolrd, porque estoy aprendiendo
 a usar git y github, pero todavia me falta.
+=======
+Pero aveces el camino se pone muy dificil, pero 
+siento que poco a poco estoy superando esas dificultades
+>>>>>>> 6ec5c73b7170a2b6b52db49bbf149a2e5327301c
